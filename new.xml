@@ -1,3 +1,7 @@
-Tima Zavr, 14 y.o., 
-I have 14 dogs and 14 cats
-I want get 14 000 $ per month
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<FIO>Tima Zavr</FIO>
+	<age>14</age>
+	<Number_Of_Pets>14</Number_Of_Pets>
+	<Salary>1400$</Salary>
+</root>
