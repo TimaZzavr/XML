@@ -1,5 +1,8 @@
-Big and Hard
-Hard and Big
-Long and yellow
-Summer
-China
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+	<Favorite_film>Big and Hard</Favorite_film>
+	<Favorite_serial>Hard and Big</Favorite_serial>
+	<Favorite_food>Long and yellow</Favorite_food>
+	<Favorite_seasons>Summer</Favorite_seasons>
+	<Country_i_want_to_visit>China</Country_i_want_to_visit>
+</preferences>
